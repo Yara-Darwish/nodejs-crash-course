@@ -1,5 +1,5 @@
 import http from 'http';
-import {GenerateRandomNumer} from './utils.js';
+import {GenerateRandomNumber} from './utils.js';
 import fs from 'fs/promises';
 import url from 'url';
 import path from 'path';
