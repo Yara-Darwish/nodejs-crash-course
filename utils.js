@@ -1,5 +1,5 @@
-function GenerateRandomNumer ()
+function GenerateRandomNumber ()
 {
     return Math.floor(Math.random()*100) + 1;
 }
-export { GenerateRandomNumer};
+export { GenerateRandomNumber};
